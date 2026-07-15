@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Penshanwarsarthak/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Penshanwarsarthak/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Penshanwarsarthak/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0567-permutation-in-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Penshanwarsarthak/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Penshanwarsarthak/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Penshanwarsarthak/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Penshanwarsarthak/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Penshanwarsarthak/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Penshanwarsarthak/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0567-permutation-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
