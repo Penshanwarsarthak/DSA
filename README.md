@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Penshanwarsarthak/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Penshanwarsarthak/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Penshanwarsarthak/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Penshanwarsarthak/DSA/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Penshanwarsarthak/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0567-permutation-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
