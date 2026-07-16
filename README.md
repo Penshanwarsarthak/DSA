@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Penshanwarsarthak/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Penshanwarsarthak/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Penshanwarsarthak/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Penshanwarsarthak/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Penshanwarsarthak/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0567-permutation-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Penshanwarsarthak/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
