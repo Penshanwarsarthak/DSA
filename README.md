@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Penshanwarsarthak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Penshanwarsarthak/DSA/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Penshanwarsarthak/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Penshanwarsarthak/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [1331-rank-transform-of-an-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Penshanwarsarthak/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -133,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Penshanwarsarthak/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Penshanwarsarthak/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Penshanwarsarthak/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Penshanwarsarthak/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Stack
 |  |
@@ -163,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Penshanwarsarthak/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Penshanwarsarthak/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Penshanwarsarthak/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
