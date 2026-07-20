@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Penshanwarsarthak/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Penshanwarsarthak/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1260-shift-2d-grid](https://github.com/Penshanwarsarthak/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Penshanwarsarthak/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -160,11 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Penshanwarsarthak/DSA/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Penshanwarsarthak/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Penshanwarsarthak/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Penshanwarsarthak/DSA/tree/master/1260-shift-2d-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Penshanwarsarthak/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
