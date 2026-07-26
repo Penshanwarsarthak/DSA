@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Penshanwarsarthak/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Penshanwarsarthak/DSA/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/Penshanwarsarthak/DSA/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Penshanwarsarthak/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Penshanwarsarthak/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Penshanwarsarthak/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Penshanwarsarthak/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/Penshanwarsarthak/DSA/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Penshanwarsarthak/DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Penshanwarsarthak/DSA/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/Penshanwarsarthak/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Penshanwarsarthak/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
