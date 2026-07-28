@@ -3,28 +3,29 @@ public:
     string smallestPalindrome(string s) {
         vector<int> cnt(26, 0);
 
-        for(char c : s)
+        for (char c : s)
             cnt[c - 'a']++;
 
-        string half = "";
-        char mid = 0;
+        string ans(s.size(), ' ');
 
-        for(int i = 0; i < 26; i++){
-            half.append(cnt[i] / 2, char('a' + i));
+        int left = 0;
+        int right = s.size() - 1;
 
-            if(cnt[i] % 2 == 1)
-                mid = char('a' + i);
+        for (int i = 0; i < 26; i++) {
+            while (cnt[i] >= 2) {
+                ans[left++] = char('a' + i);
+                ans[right--] = char('a' + i);
+                cnt[i] -= 2;
+            }
         }
 
-        string ans = half;
-
-        if(mid)
-            ans += mid;
-
-        reverse(half.begin(), half.end());
-        ans += half;
+        for (int i = 0; i < 26; i++) {
+            if (cnt[i] == 1) {
+                ans[left] = char('a' + i);
+                break;
+            }
+        }
 
         return ans;
-        
     }
 };
