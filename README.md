@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Penshanwarsarthak/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Penshanwarsarthak/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0486-predict-the-winner](https://github.com/Penshanwarsarthak/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Penshanwarsarthak/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Penshanwarsarthak/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Penshanwarsarthak/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Penshanwarsarthak/DSA/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Penshanwarsarthak/DSA/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Penshanwarsarthak/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Penshanwarsarthak/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Penshanwarsarthak/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Penshanwarsarthak/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Penshanwarsarthak/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Penshanwarsarthak/DSA/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Penshanwarsarthak/DSA/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Penshanwarsarthak/DSA/tree/master/0072-edit-distance) |
+| [0486-predict-the-winner](https://github.com/Penshanwarsarthak/DSA/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Penshanwarsarthak/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -249,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Penshanwarsarthak/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Penshanwarsarthak/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
