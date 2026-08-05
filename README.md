@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Penshanwarsarthak/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Penshanwarsarthak/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Penshanwarsarthak/DSA/tree/master/0877-stone-game) |
+| [1207-unique-number-of-occurrences](https://github.com/Penshanwarsarthak/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Penshanwarsarthak/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Penshanwarsarthak/DSA/tree/master/1406-stone-game-iii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Penshanwarsarthak/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Penshanwarsarthak/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0567-permutation-in-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0567-permutation-in-string) |
+| [1207-unique-number-of-occurrences](https://github.com/Penshanwarsarthak/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Penshanwarsarthak/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Penshanwarsarthak/DSA/tree/master/2965-find-missing-and-repeated-values) |
