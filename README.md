@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Penshanwarsarthak/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Penshanwarsarthak/DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2485-find-the-pivot-integer](https://github.com/Penshanwarsarthak/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Penshanwarsarthak/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Penshanwarsarthak/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Penshanwarsarthak/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Penshanwarsarthak/DSA/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/1140-stone-game-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/Penshanwarsarthak/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Penshanwarsarthak/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
