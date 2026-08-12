@@ -5,7 +5,7 @@ public:
         int st = 0;
         int end = n;
         long long int mid = st + (end - st) / 2;
-        long long int ans = 0;
+        long long int ans = -1;
 
         while(st <= end){
             
