@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2029-stone-game-ix](https://github.com/Penshanwarsarthak/DSA/tree/master/2029-stone-game-ix) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Penshanwarsarthak/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Penshanwarsarthak/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Penshanwarsarthak/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Penshanwarsarthak/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Penshanwarsarthak/DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Penshanwarsarthak/DSA/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/Penshanwarsarthak/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Penshanwarsarthak/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Penshanwarsarthak/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Penshanwarsarthak/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Penshanwarsarthak/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Penshanwarsarthak/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Penshanwarsarthak/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Penshanwarsarthak/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Penshanwarsarthak/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Penshanwarsarthak/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Penshanwarsarthak/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Penshanwarsarthak/DSA/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -331,15 +336,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Penshanwarsarthak/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Penshanwarsarthak/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Penshanwarsarthak/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Penshanwarsarthak/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Penshanwarsarthak/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Penshanwarsarthak/DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
