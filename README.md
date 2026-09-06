@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Penshanwarsarthak/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Penshanwarsarthak/DSA/tree/master/0006-zigzag-conversion) |
 | [0072-edit-distance](https://github.com/Penshanwarsarthak/DSA/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Penshanwarsarthak/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Penshanwarsarthak/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Penshanwarsarthak/DSA/tree/master/0344-reverse-string) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Penshanwarsarthak/DSA/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Penshanwarsarthak/DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Penshanwarsarthak/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Penshanwarsarthak/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/1140-stone-game-ii) |
