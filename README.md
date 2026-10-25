@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Penshanwarsarthak/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Penshanwarsarthak/DSA/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Penshanwarsarthak/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/Penshanwarsarthak/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Penshanwarsarthak/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Penshanwarsarthak/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Penshanwarsarthak/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Penshanwarsarthak/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Penshanwarsarthak/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Penshanwarsarthak/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/Penshanwarsarthak/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Penshanwarsarthak/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Penshanwarsarthak/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/Penshanwarsarthak/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Penshanwarsarthak/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Penshanwarsarthak/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Penshanwarsarthak/DSA/tree/master/3310-remove-methods-from-project) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Penshanwarsarthak/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Penshanwarsarthak/DSA/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Penshanwarsarthak/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Penshanwarsarthak/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Penshanwarsarthak/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Penshanwarsarthak/DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Penshanwarsarthak/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Penshanwarsarthak/DSA/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Penshanwarsarthak/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/Penshanwarsarthak/DSA/tree/master/2965-find-missing-and-repeated-values) |
